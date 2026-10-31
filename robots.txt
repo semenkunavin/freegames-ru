@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://games.podrabotkin.ru/sitemap.xml
